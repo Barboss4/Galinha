@@ -23,7 +23,7 @@ body {
   height: 100%;
   border-bottom-left-radius: 500px;
   border-bottom-right-radius: 500px;
-  background: bisque;
+  background: white;
 }
 
 .body::after {
