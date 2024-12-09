@@ -18,7 +18,7 @@ function createCornRain() {
   const body = document.body;
   for (let i = 0; i < 100; i++) {
     const corn = document.createElement('img');
-    corn.src = 'milho.jpeg';
+    corn.src = 'milho.png';
     corn.className = 'corn';
     corn.style.left = Math.random() * 100 + 'vw';
     corn.style.animationDuration = Math.random() * 2 + 3 + 's';
